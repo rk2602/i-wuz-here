@@ -1,0 +1,11 @@
+.pin {
+    position: relative;
+    display: inline-block;
+    transform: translate(0%,-100%)
+}
+
+.pin-content {
+  padding: 1em;
+  box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.2);
+  background-color: #fff;
+}

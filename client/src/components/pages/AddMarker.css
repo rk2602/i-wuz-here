@@ -1,0 +1,23 @@
+.AddMarker-List {
+    display: block;  
+    padding: var(--l);
+    text-align: center;
+    margin: var(--l);       
+    }
+
+.AddMarker-stats {
+    display: inline;
+    text-emphasis: bold;
+}
+
+b {
+    color: #456990;
+}
+
+strong {
+    color: black;
+}
+
+ol li { 
+    padding: 5px 0px; 
+}
