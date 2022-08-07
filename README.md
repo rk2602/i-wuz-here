@@ -1,5 +1,10 @@
 # I Wuz Here
 
+## The Link
+http://i-wuz-here.herokuapp.com/
+(Please note that due to the Google Maps subscription ending, this site is no
+longer supported)
+
 ## The Concept
 Remember going to that hip, trendy restaurant? Or that straight up tourist trap?
 You have fun; you enjoy the experience, until one thing catches your eye...
